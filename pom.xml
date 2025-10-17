@@ -55,7 +55,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>practicebackend</finalName>
+	<finalName>practicebackend1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
